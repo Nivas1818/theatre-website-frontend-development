@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="600" viewBox="0 0 400 600" role="img" aria-label="Shadow Strike poster">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1a1a2e"/>
+      <stop offset="1" stop-color="#a3212e"/>
+    </linearGradient></defs>
+  <rect width="400" height="600" fill="url(#g)"/>
+  <circle cx="328" cy="120" r="120" fill="rgba(255,255,255,0.06)"/>
+  <circle cx="48" cy="468" r="104" fill="rgba(255,255,255,0.05)"/>
+  <circle cx="220.00000000000003" cy="300" r="48" fill="rgba(255,255,255,0.04)"/>
+  <text x="30" y="46" font-size="13" letter-spacing="5" fill="rgba(255,255,255,0.75)" font-family="Segoe UI, Arial, sans-serif">CINEBOOK</text>
+  <text x="370" y="48" text-anchor="end" font-size="17" fill="#ffc107" font-family="Segoe UI, Arial, sans-serif">★ 4.2</text>
+  <rect x="30" y="256" width="60" height="4" rx="2" fill="rgba(255,255,255,0.5)"/>
+  <text x="30" y="244" font-size="14" letter-spacing="4" fill="rgba(255,255,255,0.7)" font-family="Segoe UI, Arial, sans-serif">ACTION</text>
+  <text x="30" y="330" font-size="40" font-weight="700" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif">Shadow Strike</text>
+  <text x="30" y="384" font-size="15" letter-spacing="2" fill="rgba(255,255,255,0.7)" font-family="Segoe UI, Arial, sans-serif">ENGLISH · 4.2 / 5</text>
+  <rect x="0" y="542" width="400" height="58" fill="rgba(0,0,0,0.45)"/>
+  <text x="200" y="576" text-anchor="middle" font-size="15" letter-spacing="3" fill="rgba(255,255,255,0.85)" font-family="Segoe UI, Arial, sans-serif">COMING SOON</text>
+</svg>
